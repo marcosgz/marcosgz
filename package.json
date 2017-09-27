@@ -1,0 +1,24 @@
+{
+  "name": "marcosgz",
+  "version": "1.0.0",
+  "description": "Marcos G. Zimmermann, the person.",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json",
+    "postversion": "npm publish"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Marcos G. Zimmermann",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosgz/marcosgz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcosgz/marcosgz/issues"
+  },
+  "homepage": "https://github.com/marcosgz/marcosgz#README"
+}
