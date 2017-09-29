@@ -2,6 +2,8 @@
 
 > Marcos G. Zimmermann, the person.
 
+![](marcosgz.gif)
+
 ```console
 npm install marcosgz
 ```
